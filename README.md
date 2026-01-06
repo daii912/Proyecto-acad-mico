@@ -5,7 +5,7 @@ Proyecto académico desarrollado de forma individual en **C#**, orientado a la g
 El sistema permite administrar socios, niños, entrenadores, deportes e inscripciones, aplicando conceptos de **Programación Orientada a Objetos (POO)** y lógica de negocio.
 
 ## Tecnologías utilizadas
-- C
+- C#
 - .NET
 - Programación Orientada a Objetos
 - Colecciones
